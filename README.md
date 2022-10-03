@@ -3,7 +3,7 @@
 I'm a freelance software developer and tech enthousiast. Always scouting for new technologies that help solve problems more efficiently. 
 
 Currently working on:
-- :vhs: [Videobase]() - an open source video recording, hosting, and streaming solution. 
+- :vhs: [Videobase](): an open source video hosting and streaming solution. 
 - :star2: [Talenttip]() I help to connect technical talent with innovative companies;
 - :monkey_face: Helping NFT enthousiast to manage their portfolios on the Cardano blockchain more efficiently;
 - :panda_face: Help companies to save budget on their cloud provider insfrastructure, plus reducing cloud energy consumption; 
