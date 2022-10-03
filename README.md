@@ -14,11 +14,11 @@ Previously worked on:
 
 :rocket: I was responsible for the research, development and implementation over 8+ years running the following stack in production:
 - AWS (EC2, Lambda, ECS, S3, SNS, SQS, S3 and SES)
-- Cloud configuration: Terraform & Ansible
-- Video: RTMP, HLS & progressive download
+- Cloud configuration: Terraform, Ansible & Docker
+- Video: RTMP, HLS, FFMPEG & progressive download
 - App: Node.js & Golang
 - Database: MongoDB & PosgreSQL
-- Client: vanilla JavaScript, React, Preact, Redux, Saga, HTML5, CSS3
+- Client: Typescript, vanilla JavaScript, React, Preact, Redux, Saga, HTML5, CSS3
 
 Proud of:
 - :baby: My 2 boys
