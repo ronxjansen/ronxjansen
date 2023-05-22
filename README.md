@@ -6,7 +6,6 @@ Currently working on:
 - :vhs: [Videobase](): an open source video hosting and streaming solution. 
 - :star2: [Talenttip]() I help to connect technical talent with innovative companies;
 - :monkey_face: Helping NFT enthousiast to manage their portfolios on the Cardano blockchain more efficiently;
-- :panda_face: Help companies to save budget on their cloud provider insfrastructure, plus reducing cloud energy consumption; 
 
 Previously worked on:
 - :video_camera: I co-founded Flipbase - an asychronous video interview solution primarly built for the recruitment & staffing industry. In 8 years we bootstrapped this company to service recruiters all over the world. Ranging from the United States to Australia, from South Africa to Norway. Processing monthly on average over 50.000 interviews. 
@@ -29,7 +28,7 @@ Ambitions:
 - :seedling: To help in the energy transition with my skills where possible
 - :beers: Make remote work more fun and personal
 - :open_hands: Develop more, or even exclusively, open source software
-- :bulb: Experiment more with Rust, Svelte, C and C++
+- :bulb: Experiment more with Rust, Svelte, SolidJs, 
 - :hammer: Kickstart an IoT project
 
 Question?
