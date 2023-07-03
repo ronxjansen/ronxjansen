@@ -3,8 +3,8 @@
 I'm a freelance software developer and tech enthousiast. Always scouting for new technologies that help solve problems more efficiently. 
 
 Currently working on:
-- :america: [Lingo](): developer orientied translation service, utilising AI
-- :beach: [Ordinals](): application on top of Bitcoin Ordinals (in stealth mode) 
+- 🌐 [Lingo](): developer orientied translation service, utilising AI
+- ⚓ [Ordinals](): application on top of Bitcoin Ordinals (in stealth mode) 
 
 Previously worked on:
 - :video_camera: I co-founded Flipbase - an asychronous video interview solution primarly built for the recruitment & staffing industry. In 8 years we bootstrapped this company to service recruiters all over the world. Ranging from the United States to Australia, from South Africa to Norway. Processing monthly on average over 50.000 interviews. 
